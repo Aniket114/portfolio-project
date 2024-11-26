@@ -10,7 +10,7 @@ const Home = () => {
           <p>
             A passionate <strong>Frontend Developer</strong> with skills in <strong>HTML, CSS, JavaScript, React, Bootstrap</strong>, and more. I love crafting user-friendly websites and bringing designs to life.
           </p>
-          <div className="home-buttons">
+         <div className="home-buttons">
             <a href="#contact" className="btn">Contact Me</a>
             <a href="resume.pdf" download="Aniket-Bhambhoriya-Resume.pdf" className="btn secondary-btn">Download Resume</a>
           </div>
