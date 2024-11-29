@@ -1,18 +1,19 @@
 import React from "react";
-
+import chatgpt from "../assest/Screenshot 2024-11-26 234915.png"
+import port from "../assest/Screenshot 2024-11-27 000200.png"
 const Projects = () => {
   const projectList = [
     {
       name: "Chat GPT Clone",
       description: "A frontend Chat GPT platform using React and JSON file",
       link: "#",
-      image: "https://via.placeholder.com/300x200",
+      image: {chatgpt}
     },
     {
       name: "Portfolio",
       description: "Simple portfolio with React.",
       link: "#",
-      image: "https://via.placeholder.com/300x200",
+      image: {port}
     },
   ];
 
