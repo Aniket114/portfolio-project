@@ -7,13 +7,13 @@ const Projects = () => {
       name: "Chat GPT Clone",
       description: "A frontend Chat GPT platform using React and JSON file",
       link: "#",
-      image: {chatgpt}
+      image: chatgpt,
     },
     {
       name: "Portfolio",
       description: "Simple portfolio with React.",
       link: "#",
-      image: {port}
+      image: port,
     },
   ];
 
